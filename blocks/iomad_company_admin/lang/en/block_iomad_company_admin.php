@@ -23,7 +23,7 @@
 
 $string['actions'] = 'Aksi';
 $string['addnewchildcompany'] = 'Tambah Anak Perusahann';
-$string['addnewcompany'] = 'Tambah Perusahaan';
+$string['addnewcompany'] = 'Tambah instansi';
 $string['allcourses'] = 'Semua courses';
 $string['alltemplates'] = 'All competency templates';
 $string['allframeworks'] = 'All competency frameworks';
